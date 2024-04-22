@@ -1,3 +1,5 @@
+Projeto feito pra materia de Desenvolvimento Web de Projeto estensonal da Faculdade como pré-requisito de aprovação.
+
 # Iniciando o projeto
 
 Certifique-se que exista um banco de dados local, altere os dados de conexao se necessario.
